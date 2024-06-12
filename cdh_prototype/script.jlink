@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Users\kent\Desktop\soci_cdh_rtos-dev\soci_cdh_rtos-dev\cdh_prototype\Debug\cdh_prototype_powermode.hex" 0x60000000 
+qc
+
+qc
